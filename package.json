@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-mie998",
+  "author": "Keisuke Nishiwaki <nishiwaki.kyoto@gmail.com>",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mie998/eslint-config-mie998.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mie998/eslint-config-mie998/issues"
+  },
+  "homepage": "https://github.com/mie998/eslint-config-mie998#readme",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.24.0",
+    "@typescript-eslint/parser": "^4.24.0",
+    "eslint": "^7.27.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.22.1",
+    "typescript": "^4.4.3"
+  }
+}
