@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-mie998",
   "author": "Keisuke Nishiwaki <nishiwaki.kyoto@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "license": "MIT",
   "main": "index.js",
